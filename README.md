@@ -13,4 +13,4 @@
 
  - source001 [https://steven-giesel.com/feed.rss](https://steven-giesel.com/feed.rss) -> [steven-giesel_rss.xml](rss/steven-giesel_rss.xml)
  - source002 [https://code-maze.com/feed/](https://code-maze.com/feed/) -> [code-maze.xml](rss/code-maze.xml)
- - source003 [https://yihui.org/index.xml](https://yihui.org/index.xml) -> [yihuixml](rss/yihuixml)
+ - source003 [https://yihui.org/index.xml](https://yihui.org/index.xml) -> [yihui.xml](rss/yihui.xml)
