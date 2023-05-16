@@ -11,6 +11,6 @@
 
 ## 已转换翻译源
 
- - source001 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_rss.xml](rss/mckinsey_rss.xml)
- - source002 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_iw_rss.xml](rss/mckinsey_iw_rss.xml)
- - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
+ - source001 [https://steven-giesel.com/feed.rss](https://steven-giesel.com/feed.rss) -> [steven-giesel_rss.xml](rss/steven-giesel_rss.xml)
+ - source002 [https://code-maze.com/feed/](https://code-maze.com/feed/) -> [code-maze.xml](rss/code-maze.xml)
+ - source003 [https://yihui.org/index.xml](https://yihui.org/index.xml) -> [yihuixml](rss/yihuixml)
